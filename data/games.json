@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Azul",
+    "min_players": 2,
+    "max_players": 4,
+    "time": 45,
+    "style": "competitive",
+    "complexity": "medium"
+  },
+  {
+    "name": "Codenames",
+    "min_players": 4,
+    "max_players": 8,
+    "time": 30,
+    "style": "team",
+    "complexity": "easy"
+  },
+  {
+    "name": "The Mind",
+    "min_players": 2,
+    "max_players": 4,
+    "time": 20,
+    "style": "cooperative",
+    "complexity": "easy"
+  },
+  {
+    "name": "Cascadia",
+    "min_players": 1,
+    "max_players": 4,
+    "time": 40,
+    "style": "competitive",
+    "complexity": "medium"
+  },
+  {
+    "name": "Just One",
+    "min_players": 3,
+    "max_players": 7,
+    "time": 20,
+    "style": "cooperative",
+    "complexity": "easy"
+  }
+]
