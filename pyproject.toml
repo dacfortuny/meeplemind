@@ -9,6 +9,7 @@ dependencies = [
     "llama-index-core>=0.14.24",
     "llama-index-llms-anthropic>=0.11.10",
     "python-dotenv>=1.2.3",
+    "requests>=2.34.2",
 ]
 
 [dependency-groups]

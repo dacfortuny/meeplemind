@@ -1129,6 +1129,7 @@ dependencies = [
     { name = "llama-index-core" },
     { name = "llama-index-llms-anthropic" },
     { name = "python-dotenv" },
+    { name = "requests" },
 ]
 
 [package.dev-dependencies]
@@ -1143,6 +1144,7 @@ requires-dist = [
     { name = "llama-index-core", specifier = ">=0.14.24" },
     { name = "llama-index-llms-anthropic", specifier = ">=0.11.10" },
     { name = "python-dotenv", specifier = ">=1.2.3" },
+    { name = "requests", specifier = ">=2.34.2" },
 ]
 
 [package.metadata.requires-dev]
